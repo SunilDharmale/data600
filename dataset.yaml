@@ -1,0 +1,5 @@
+train: C:\Users\sunil\OneDrive\Desktop\Fujitsuworkdec2022\yolov5training\psdrokit\data\train\images
+val: C:\Users\sunil\OneDrive\Desktop\Fujitsuworkdec2022\yolov5training\psdrokit\data\valid\images
+
+nc: 2
+names: ['space-empty', 'space-occupied']
